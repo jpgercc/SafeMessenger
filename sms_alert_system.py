@@ -12,8 +12,8 @@ real_password = "secret123"
 
 account_sid = "AC03d85c4bbb0ce64c5dd43f426b2af355"
 auth_token = "de0c80206ae5ddf716dc0ac3be1d43f2"
-twilio_phone_number = "+15734946310"  # Your Twilio phone number
-recipient_phone_number = "+55051991823420"  # Recipient's phone number
+twilio_phone_number = "+00000000000"  # Your Twilio phone number
+recipient_phone_number = "+55051000000000"  # Recipient's phone number
 
 client = Client(account_sid, auth_token)
 
